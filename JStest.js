@@ -33,7 +33,7 @@ const nft2 = mintNFT("yash", "brown", "silver watch", "chacked");
 const nft3 = mintNFT("aasrush", "white", "silver watch", "column");
 const nft4 = mintNFT("sagar", "black", "golden watch", "chacked");
 const nft5 = mintNFT("navdeep", "brown", "sliver watch", "chacked");
-const nft6 = mintNFT("abhi", "white", " golden watch", "chacked");
+const nft6 = mintNFT("Amrit", "red", " golden watch", "plain");
  
 listNFTs();
 console.log("total : " + getTotalSupply());
